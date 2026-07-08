@@ -1,1 +1,19 @@
+# PyInstaller
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambiente
 .env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Windows
+Thumbs.db
