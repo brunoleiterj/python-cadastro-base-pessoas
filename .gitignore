@@ -1,19 +1,24 @@
-# PyInstaller
-build/
-dist/
-
-# Python
-__pycache__/
-*.py[cod]
-
 # Ambiente
 .env
 .venv/
 venv/
 
-# IDE
+# Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+build/
+dist/
+
+# PyCharm
 .idea/
+
+# VS Code
 .vscode/
 
 # Windows
 Thumbs.db
+
+# macOS
+.DS_Store
